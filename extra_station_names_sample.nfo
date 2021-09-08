@@ -8,7 +8,7 @@
     1 * 241	 14 "C"
     "INFO"
       "T" "NAME" 00 "Extra station names sample v1" 00
-      "T" "DESC" 00 C3 9E 0D  "Sample GRF for the extra station names feature. Requires an OpenTTD version which supports this feature such as JGR's patchpack v0.42.3 or later.\0D\8ELicensed under GPLv2" 00
+      "T" "DESC" 00 C3 9E 0D  "Sample GRF for the extra station names feature. This GRF adds extra station name strings for when all the default names have been used up, instead of \"Town Station #NNN\". Requires an OpenTTD version which supports this feature such as JGR's patchpack v0.42.3 or later.\0D\8ELicensed under GPLv2" 00
       "B" "PALS" \w1 "D"
       "B" "VRSN" \w4 \d01
       00
@@ -25,7 +25,7 @@
   00
 
     3 * 207	 08 07 "JGR" 80
-  "Extra station names sample v1" 00 C3 9E 0D  "Sample GRF for the extra station names feature. Requires an OpenTTD version which supports this feature such as JGR's patchpack v0.42.3 or later.\0D\8ELicensed under GPLv2" 00
+  "Extra station names sample v1" 00 C3 9E 0D  "Sample GRF for the extra station names feature. This GRF adds extra station name strings for when all the default names have been used up, instead of \"Town Station #NNN\". Requires an OpenTTD version which supports this feature such as JGR's patchpack v0.42.3 or later.\0D\8ELicensed under GPLv2" 00
 
     4 * 6	 09 8D 01 \71 04 01
     5 * 65	 0B 03 7F FF "This version of OpenTTD does not support extra station names" 00
