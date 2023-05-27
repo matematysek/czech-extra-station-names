@@ -1,8 +1,8 @@
-# Extra Station Names Sample NewGRF
+# Czech Extra Station Names NewGRF
 
 ### Features
 
-* This GRF adds extra station name strings for when all the default names have been used up, instead of "Town Station #NNN".
+* This GRF adds extra station name strings for when all the default names have been used up, instead of "Town Station #NNN", that are localised to Czech.
 
 ### Requirements
 
