@@ -113,7 +113,7 @@
 
    12 * 248	 04 08 FF \b16 20 DC
 80 " - Namesti Komenskeho" 00 80 " - Rybnicni" 00 80 " - Na Cisarske silnici" 00 80 " - K. H. Borovskeho" 00 80 " - Na Suchem" 00 80 " - Letohradska" 00 80 " - Houbova" 00 80 " - Do Koutu" 00
-80 " - M. D. Rettigove" 00 80 " - Francouzska" 00 80 " - Hrob" 00 80 " - " 00 80 " - Stavebni zona Severni trida" 00 80 " - Jonathana G. Rennissona" 00 80 " - Kaprova" 00 80 " - Klubu ceskych turistu" 00
+80 " - M. D. Rettigove" 00 80 " - Francouzska" 00 80 " - Hrob" 00 80 " - Hloupetin" 00 80 " - Stavebni zona Severni trida" 00 80 " - Jonathana G. Rennissona" 00 80 " - Kaprova" 00 80 " - Klubu ceskych turistu" 00
 
    13 * 86	 00 08 01 \b16 00 F8
          04 30 DC \wx103
@@ -133,6 +133,28 @@
          04 3E DC \wx3
          04 3F DC \wx3
 
-   14 * 5	 06 00 01 07 FF
+   14 * 248	 04 08 FF \b16 20 DC
+80 " - Ujezdecka" 00 80 " - Prazska ctvrt" 00 80 " - Druzstevni ochoz" 00 80 " - Elektra" 00 80 " - Strechov" 00 80 " - Dulni" 00 80 " - Horni" 00 80 " - Na Strzi" 00
+80 " - Stara Hradebni" 00 80 " - Za Galerii" 00 80 " - U Depa" 00 80 " - Obchodni dum IKEY" 00 80 " - Fridaemonova" 00 80 " - Kapitana Jarose" 00 80 " - Gocarova trida" 00 80 " - Terminal MHD" 00
 
-   15 * 8	 00 08 01 01 00 F9 01 00
+   15 * 86	 00 08 01 \b16 00 F8
+         04 40 DC \wx3
+         04 41 DC \wx3
+         04 42 DC \wx3
+         04 43 DC \wx3
+         04 44 DC \wx3
+         04 45 DC \wx3
+         04 46 DC \wx3
+         04 47 DC \wx3
+         04 48 DC \wx3
+         04 49 DC \wx3
+         04 4A DC \wx3
+         04 4B DC \wx3
+         04 4C DC \wx3
+         04 4D DC \wx3
+         04 4E DC \wx3
+         04 4F DC \wx3
+
+   16 * 5	 06 00 01 07 FF
+
+   17 * 8	 00 08 01 01 00 F9 01 00
