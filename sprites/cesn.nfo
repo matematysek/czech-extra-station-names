@@ -45,7 +45,7 @@
 
     6 * 243	 04 08 FF \b16 00 DC
     80 " - Vresova" 00 80 " - Ke Svate studance" 00 80 " - Lhotecka" 00 80 " - Babicka" 00 80 " - Nectinska" 00 80 " - Nabrezi Tomase G. Masaryka" 00
-    80 " - Dobsinska" 00 80 " - Do Orlove" 00 80 " - Lannova" 00 80 " - Za Kasarnou" 00 80 " - Lidicka" 00 80 " - Jarni" 00 80 " - Rychtarska" 00 80 " - Dobytci trh" 00
+    80 " - Dobsinska" 00 80 " - Fridaemonova" 00 80 " - Lannova" 00 80 " - Za Kasarnou" 00 80 " - Lidicka" 00 80 " - Jarni" 00 80 " - Rychtarska" 00 80 " - Dobytci trh" 00
     80 " - Namesti Frantiska Josefa I." 00 80 " - K Zajezdnimu hostinci" 00
 
     7 * 86	 00 08 01 \b16 00 F8
@@ -68,8 +68,8 @@
 
 
     8 * 229	 04 08 FF \b16 10 DC
-80 " - Radnicni" 00 80 " - Zapadni Brana" 00 80 " - Kostelni" 00 80 " - Newtonova" 00 80 " - Lipova Hora" 00 80 " - Namesti Osvobozeni" 00 80 " - Hlavni" 00 80 " - Prirodni" 00
-80 " - Za Mlynem" 00 80 " - Na Hrane" 00 80 " - Pisecna" 00 80 " - Cechova skola" 00 80 " - Novodvorska" 00 80 " - Za Farou" 00 80 " - Obla" 00 80 " - Lovosicka" 00
+80 " - Radnicni" 00 80 " - Zapadni Brana" 00 80 " - Kostelni" 00 80 " - Newtonova" 00 80 " - Hloupetin" 00 80 " - Namesti Osvobozeni" 00 80 " - Hlavni" 00 80 " - Prirodni" 00
+80 " - Za Mlynem" 00 80 " - Jonathana G. Rennissona" 00 80 " - Pisecna" 00 80 " - Cechova skola" 00 80 " - Terminal MHD" 00 80 " - K. H. Borovskeho" 00 80 " - Obla" 00 80 " - Lovosicka" 00
 
     9 * 86	 00 08 01 \b16 00 F8
          04 10 DC \wx3
@@ -89,72 +89,8 @@
          04 1E DC \wx203
          04 1F DC \wx3
 
-   10 * 248	 04 08 FF \b16 20 DC
-80 " - Obchodni zona" 00 80 " - Pristaviste" 00 80 " - Na Stare ceste" 00 80 " - Dlazdena" 00 80 " - Prevozniku" 00 80 " - Zamecka" 00 80 " - Arcimboldova" 00 80 " - Do Puste Vsi" 00
-80 " - Na Bitevnim poli" 00 80 " - Pekarka" 00 80 " - Starov" 00 80 " - Postovni" 00 80 " - Developerska" 00 80 " - Karlova" 00 80 " - Krabi" 00 80 " - rozcesti 1.0" 00
 
-   11 * 86	 00 08 01 \b16 00 F8
-         04 20 DC \wx103
-         04 21 DC \wx403
-         04 22 DC \wx203
-         04 23 DC \wx3
-         04 24 DC \wx403
-         04 25 DC \wx203
-         04 26 DC \wx203
-         04 27 DC \wx3
-         04 28 DC \wx3
-         04 29 DC \wx3
-         04 2A DC \wx203
-         04 2B DC \wx203
-         04 2C DC \wx203
-         04 2D DC \wx3
-         04 2E DC \wx403
-         04 2F DC \wx203
 
-   12 * 248	 04 08 FF \b16 20 DC
-80 " - Namesti Komenskeho" 00 80 " - Rybnicni" 00 80 " - Na Cisarske silnici" 00 80 " - K. H. Borovskeho" 00 80 " - Na Suchem" 00 80 " - Letohradska" 00 80 " - Houbova" 00 80 " - Do Koutu" 00
-80 " - M. D. Rettigove" 00 80 " - Francouzska" 00 80 " - Hrob" 00 80 " - Hloupetin" 00 80 " - Stavebni zona Severni trida" 00 80 " - Jonathana G. Rennissona" 00 80 " - Kaprova" 00 80 " - Klubu ceskych turistu" 00
+   10 * 5	 06 00 01 07 FF
 
-   13 * 86	 00 08 01 \b16 00 F8
-         04 30 DC \wx103
-         04 31 DC \wx403
-         04 32 DC \wx3
-         04 33 DC \wx3
-         04 34 DC \wx803
-         04 35 DC \wx3
-         04 36 DC \wx203
-         04 37 DC \wx3
-         04 38 DC \wx3
-         04 39 DC \wx3
-         04 3A DC \wx3
-         04 3B DC \wx3
-         04 3C DC \wx3
-         04 3D DC \wx3
-         04 3E DC \wx3
-         04 3F DC \wx3
-
-   14 * 248	 04 08 FF \b16 20 DC
-80 " - Ujezdecka" 00 80 " - Prazska ctvrt" 00 80 " - Druzstevni ochoz" 00 80 " - Elektra" 00 80 " - Strechov" 00 80 " - Dulni" 00 80 " - Horni" 00 80 " - Na Strzi" 00
-80 " - Stara Hradebni" 00 80 " - Za Galerii" 00 80 " - U Depa" 00 80 " - Obchodni dum IKEY" 00 80 " - Fridaemonova" 00 80 " - Kapitana Jarose" 00 80 " - Gocarova trida" 00 80 " - Terminal MHD" 00
-
-   15 * 86	 00 08 01 \b16 00 F8
-         04 40 DC \wx3
-         04 41 DC \wx3
-         04 42 DC \wx3
-         04 43 DC \wx3
-         04 44 DC \wx3
-         04 45 DC \wx3
-         04 46 DC \wx3
-         04 47 DC \wx3
-         04 48 DC \wx3
-         04 49 DC \wx3
-         04 4A DC \wx3
-         04 4B DC \wx3
-         04 4C DC \wx3
-         04 4D DC \wx3
-         04 4E DC \wx3
-         04 4F DC \wx3
-
-   16 * 5	 06 00 01 07 FF
-
-   17 * 8	 00 08 01 01 00 F9 01 00
+   11 * 8	 00 08 01 01 00 F9 01 00
