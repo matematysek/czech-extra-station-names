@@ -44,8 +44,8 @@
     5 * 65	 0B 03 7F FF "This version of OpenTTD does not support extra station names" 00
 
     6 * 243	 04 08 FF \b16 00 DC
-    80 " - Vresova" 00 80 " - Ke Svate studance" 00 80 " - Lhotecka" 00 80 " - Babicka" 00 80 " - Nectinska" 00 80 " - Nabrezi Tomase G. Masaryka" 00
-    80 " - Dobsinska" 00 80 " - Fridaemonova" 00 80 " - Lannova" 00 80 " - Za Kasarnou" 00 80 " - Lidicka" 00 80 " - Jarni" 00 80 " - Rychtarska" 00 80 " - Dobytci trh" 00
+    80 " - Vřesová" 00 80 " - Ke Svaté studánce" 00 80 " - Lhotecká" 00 80 " - Babická" 00 80 " - Nečtinská" 00 80 " - Nábřeží Tomáše G. Masaryka" 00
+    80 " - Dobšínská" 00 80 " - Fridaemonova" 00 80 " - Lannova" 00 80 " - Za Kasárnou" 00 80 " - Lidická" 00 80 " - Jarní" 00 80 " - Rychtářská" 00 80 " - Dobytčí trh" 00
     80 " - Namesti Frantiska Josefa I." 00 80 " - K Zajezdnimu hostinci" 00
 
     7 * 86	 00 08 01 \b16 00 F8
@@ -68,8 +68,8 @@
 
 
     8 * 229	 04 08 FF \b16 10 DC
-80 " - Radnicni" 00 80 " - Zapadni Brana" 00 80 " - Kostelni" 00 80 " - Newtonova" 00 80 " - Hloupetin" 00 80 " - Namesti Osvobozeni" 00 80 " - Hlavni" 00 80 " - Prirodni" 00
-80 " - Za Mlynem" 00 80 " - Jonathana G. Rennissona" 00 80 " - Pisecna" 00 80 " - Cechova skola" 00 80 " - Terminal MHD" 00 80 " - K. H. Borovskeho" 00 80 " - Obla" 00 80 " - Lovosicka" 00
+80 " - Radniční" 00 80 " - Západní Brána" 00 80 " - Kostelní" 00 80 " - Newtonova" 00 80 " - Hloupetín" 00 80 " - Náměstí Osvobození" 00 80 " - Hlavní" 00 80 " - Přírodní" 00
+80 " - Za Mlýnem" 00 80 " - Jonathana G. Rennissona" 00 80 " - Písečná" 00 80 " - Čechova škola" 00 80 " - Terminál MHD" 00 80 " - K. H. Borovského" 00 80 " - Oblá" 00 80 " - Lovosická" 00
 
     9 * 86	 00 08 01 \b16 00 F8
          04 10 DC \wx3
